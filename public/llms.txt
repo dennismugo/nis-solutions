@@ -1,0 +1,22 @@
+# Nile ICT Solutions
+> Technology that keeps business moving.
+
+## Entity Overview
+- Official Name: Nile ICT Solutions
+- Brand Message: Technology that keeps business moving.
+- Positioning: Enterprise ICT infrastructure, commercial cybersecurity, custom business software, and contracted SLA IT management.
+- Headquarters: Tom Mboya Street, Posta Building, Nairobi CBD, Kenya
+- Direct Contact Phone: +254 795 121 583
+- Official Email: info@nileictsolutions.com
+- Website: https://nileictsolutions.com/
+
+## Core Solution Pillars
+1. ICT Infrastructure & Security: Structured Cat6A and single/multimode fiber cabling, server rack management, Cisco/Mikrotik routing, commercial IP CCTV surveillance with H.265+ NVR storage, biometric access control, and KDPA-compliant data security.
+2. Enterprise Systems & Software: Custom and integrated core banking platforms, SACCO/microfinance transaction engines, insurance policy management, ERP workflows, and Safaricom MPESA Daraja API integration.
+3. Digital Solutions & Web Engineering: Next.js modern web applications, high-converting corporate portals, and custom B2B web software.
+4. Business Technology Support: Contracted Managed IT Services backed by strict Service Level Agreements (SLAs), sub-2-hour remote response, sub-4-hour on-site Nairobi dispatch, and scheduled preventative maintenance.
+
+## Verified Partner References
+- Century Bank: Mission-critical banking hall cabling, server room rack consolidation, and zero-downtime power resilience.
+- Sote Hub: High-density campus Wi-Fi 6 wireless deployment and multi-SSID bandwidth management.
+- The Cradle Tented Camp: Turnkey long-range outdoor wireless mesh and remote IP surveillance.
